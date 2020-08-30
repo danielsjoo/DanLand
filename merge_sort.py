@@ -31,5 +31,5 @@ class Sorter:
             z_pointer += 1
         return z
 
-list1 = [6,5,8,7,3,2,4,1]
+list1 = [8,7,6,5,4,3,2,1]
 print(Sorter.merge_sort(list1))
